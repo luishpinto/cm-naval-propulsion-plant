@@ -59,5 +59,5 @@ GT compressor outlet air pressure | P2 | bar
 GT exhaust gas pressure | Pexh | bar
 turbine injecton control | TIC | %
 fuel flow | mf | kg/s
-- GT compressor decay state coefficient
-- GT turbine decay state coefficient
+GT compressor decay state coefficient | kMc |
+GT turbine decay state coefficient | kMt |
