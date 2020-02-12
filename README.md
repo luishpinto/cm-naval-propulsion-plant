@@ -41,23 +41,24 @@ Check the README.txt file for further details about this dataset.
 
 A 16-feature vector containing the GT measures at steady state of the physical asset:
 
-Feature | Variable | Unit
---------|----------|-----
-lever position | lp |
-ship speed | v | knots
-gas Turbine (GT) shaft torque | GTT | kN m
-GT rate of revolutions | GTn | rpm
-gas generator rate of revolutions | GGn | rpm
-starboard propeller torque | Ts | kN
-port propeller torque | Tp | kN
-hight pressure (HP) turbine exit temperature | T48 | °C
-GT compressor inlet air temperature | T1 | °C
-GT compressor outlet air temperature | T2 | °C
-HP turbine exit pressure | P48 | bar
-GT compressor inlet air pressure | P1 | bar
-GT compressor outlet air pressure | P2 | bar
-GT exhaust gas pressure | Pexh | bar
-turbine injecton control | TIC | %
-fuel flow | mf | kg/s
-GT compressor decay state coefficient | kMc |
-GT turbine decay state coefficient | kMt |
+ID | Feature | Variable | Unit
+---|---------|----------|-----
+01 | lever position | lp |
+02 | ship speed | v | knots
+03 | gas Turbine (GT) shaft torque | GTT | kN m
+04 | GT rate of revolutions | GTn | rpm
+05 | gas generator rate of revolutions | GGn | rpm
+06 | starboard propeller torque | Ts | kN
+07 | port propeller torque | Tp | kN
+08 | hight pressure (HP) turbine exit temperature | T48 | °C
+09 | GT compressor inlet air temperature | T1 | °C
+10 | GT compressor outlet air temperature | T2 | °C
+11 | HP turbine exit pressure | P48 | bar
+12 | GT compressor inlet air pressure | P1 | bar
+13 | GT compressor outlet air pressure | P2 | bar
+14 | GT exhaust gas pressure | Pexh | bar
+15 | turbine injecton control | TIC | %
+16 | fuel flow | mf | kg/s
+---|---------|----------|-----
+17 | GT compressor decay state coefficient | kMc |
+18 | GT turbine decay state coefficient | kMt |
