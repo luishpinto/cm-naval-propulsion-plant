@@ -59,6 +59,6 @@ ID | Feature | Variable | Unit
 14 | GT exhaust gas pressure | Pexh | bar
 15 | turbine injecton control | TIC | %
 16 | fuel flow | mf | kg/s
----|---------|----------|-----
+---|-----------|----|-----
 17 | GT compressor decay state coefficient | kMc |
 18 | GT turbine decay state coefficient | kMt |
