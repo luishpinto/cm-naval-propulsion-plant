@@ -36,3 +36,28 @@ Ship speed has been investigated sampling the range of feasible speed from 3 kno
 A series of measures (16 features) which indirectly represents of the state of the system subject to performance decay has been acquired and stored in the dataset over the parameter's space.
 
 Check the README.txt file for further details about this dataset.
+
+## Attribute Information:
+
+A 16-feature vector containing the GT measures at steady state of the physical asset:
+
+Feature | Variable | Unit
+--------|----------|-----
+lever position | lp |
+ship speed | v | knots
+gas Turbine (GT) shaft torque | GTT | kN m
+GT rate of revolutions | GTn | rpm
+gas generator rate of revolutions | GGn | rpm
+starboard propeller torque | Ts | kN
+port propeller torque | Tp | kN
+hight pressure (HP) turbine exit temperature | T48 | °C
+GT compressor inlet air temperature | T1 | °C
+GT compressor outlet air temperature | T2 | °C
+HP turbine exit pressure | P48 | bar
+GT compressor inlet air pressure | P1 | bar
+GT compressor outlet air pressure | P2 | bar
+GT exhaust gas pressure | Pexh | bar
+turbine injecton control | TIC | %
+fuel flow | mf | kg/s
+- GT compressor decay state coefficient
+- GT turbine decay state coefficient
