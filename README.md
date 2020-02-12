@@ -45,19 +45,19 @@ ID | Feature | Variable | Unit
 ---|---------|----------|-----
 01 | lever position | lp |
 02 | ship speed | v | knots
-03 | gas Turbine (GT) shaft torque | GTT | kN.m
-04 | GT rate of revolutions | GTn | rpm
+03 | gas turbine shaft torque | GTT | kN.m
+04 | gas turbine rate of revolutions | GTn | rpm
 05 | gas generator rate of revolutions | GGn | rpm
 06 | starboard propeller torque | Ts | kN
 07 | port propeller torque | Tp | kN
-08 | hight pressure (HP) turbine exit temperature | T48 | °C
-09 | GT compressor inlet air temperature | T1 | °C
-10 | GT compressor outlet air temperature | T2 | °C
-11 | HP turbine exit pressure | P48 | bar
-12 | GT compressor inlet air pressure | P1 | bar
-13 | GT compressor outlet air pressure | P2 | bar
-14 | GT exhaust gas pressure | Pexh | bar
+08 | hight pressure turbine exit temperature | T48 | °C
+09 | gas turbine compressor inlet air temperature | T1 | °C
+10 | gas turbine compressor outlet air temperature | T2 | °C
+11 | hight pressure turbine exit pressure | P48 | bar
+12 | gas turbine compressor inlet air pressure | P1 | bar
+13 | gas turbine compressor outlet air pressure | P2 | bar
+14 | gas turbine exhaust gas pressure | Pexh | bar
 15 | turbine injecton control | TIC | %
 16 | fuel flow | mf | kg.s<sup>-1<sup>
-17 | GT compressor decay state coefficient | kMc |
-18 | GT turbine decay state coefficient | kMt |
+17 | gas turbine compressor decay state coefficient | kMc |
+18 | gas turbine decay state coefficient | kMt |
