@@ -45,7 +45,7 @@ ID | Feature | Variable | Unit
 ---|---------|----------|-----
 01 | lever position | lp |
 02 | ship speed | v | knots
-03 | gas Turbine (GT) shaft torque | GTT | kN m
+03 | gas Turbine (GT) shaft torque | GTT | kN.m
 04 | GT rate of revolutions | GTn | rpm
 05 | gas generator rate of revolutions | GGn | rpm
 06 | starboard propeller torque | Ts | kN
@@ -58,6 +58,6 @@ ID | Feature | Variable | Unit
 13 | GT compressor outlet air pressure | P2 | bar
 14 | GT exhaust gas pressure | Pexh | bar
 15 | turbine injecton control | TIC | %
-16 | fuel flow | mf | kg/s
+16 | fuel flow | mf | kg.s<sup>-1<sup>
 17 | GT compressor decay state coefficient | kMc |
 18 | GT turbine decay state coefficient | kMt |
